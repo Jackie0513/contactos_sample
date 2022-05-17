@@ -1,0 +1,44 @@
+[
+    {
+        "nombre": "Jéss",
+        "telefono": 32187947,
+        "email": "Jess@samplemail.com"
+        
+    },
+    {
+        "nombre": "Pedro",
+        "telefono": 32187970,
+        "email": "@samplemail.com"
+       
+    },
+    {
+        "nombre": "Teresa",
+        "telefono": 32187960,
+        "email":"Pedro@samplemail.com" 
+       
+    },
+    {
+        "nombre": "Maria",
+        "telefono": 75,
+        "email":"Maria@samplemail.com" 
+       
+    },
+    {
+        "nombre": "Luis",
+        "telefono": 32187923,
+        "email":"Luis@samplemail.com" 
+        
+    },
+    {
+        "nombre": "Ericka",
+        "telefono": 32187973,
+        "email": "Ericka@samplemail.com"
+        
+    },
+    {
+        "nombre": "Camilo",
+        "telefono": 32187978,
+        "email": "Camilo@samplemail.com"
+    
+    }
+]
